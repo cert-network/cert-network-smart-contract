@@ -4,7 +4,7 @@ The cert-network smart contract written in solidity.
 
 ## Getting Started
 
-For a quick start copy all of the smart contract code into [Remix](https://remix.ethereum.org) and enjoy coding!
+For a quick start, copy all the codes from `Certificate.sol` into [Remix](https://remix.ethereum.org) and enjoy coding!
 
 ## Functions
 
